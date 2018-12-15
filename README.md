@@ -48,5 +48,3 @@ Endpoints:
 
 - Remover Cliente por id
 	Efetuar com chamada DELETE para o enpoint "{host}/cliente/{idCliente}"
-
-# cliente
